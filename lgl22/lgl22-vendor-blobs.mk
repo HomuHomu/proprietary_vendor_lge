@@ -283,4 +283,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/lgl22/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/lgl22/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/lgl22/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/lge/lgl22/proprietary/vendor/lib/pp_proc_plugin.so:system/vendor/lib/pp_proc_plugin.so
+    vendor/lge/lgl22/proprietary/vendor/lib/pp_proc_plugin.so:system/vendor/lib/pp_proc_plugin.so \
+    vendor/lge/lgl22/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
